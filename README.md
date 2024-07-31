@@ -1,1 +1,2 @@
-2048-In-Python
+2048game = 2048 game
+typing.py= typing prctice program
